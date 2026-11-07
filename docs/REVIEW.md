@@ -1,5 +1,7 @@
 # Independent review
 
+Current project-status review (2026-11-07): [PROJECT_TRACKER_REVIEW.md](PROJECT_TRACKER_REVIEW.md) checks the current task ledger and relocation evidence. Original corpus inventory/structural findings below remain historical; the source corpus was not reinventoried for the tracker.
+
 Later implementation-planning review (2026-11-07): see `IMPLEMENTATION_REVIEW.md` and `IMPLEMENTATION_EVALUATION.md` for the new local/cloud outline, source-derived tests and correction rounds. The structural review below remains scoped to its original artifacts; it does not validate the later design or establish runtime correctness.
 
 Review date: 2026-11-07 (Europe/Vienna). Reviewer was a separate agent from the analyst and document author.

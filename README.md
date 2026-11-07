@@ -4,6 +4,10 @@ This workspace contains corpus analysis, an implementation outline and a first l
 
 ## Start here
 
+Current workspace: `C:\Users\Fred_U\Dropbox\AI\chatbot_manual`. See the [project tracker](docs/PROJECT_TRACKER.md) for reviewed milestone status, priorities, dependencies, decision gates and next work.
+
+To start implementation, use the [execution handoff](docs/IMPLEMENTATION_HANDOFF.md). It requires checking existing apps before installing missing dependencies and continuing through independent review to usable operation. The [readiness audit](docs/READINESS_AUDIT.md) records verified software and the remaining old-path app/test references.
+
 Read `AGENTS.md`, the project skills, `docs/LLM_CONTEXT.md` and `.project-memory/README.md` before working. `docs/HANDOFF_PROMPT.md` identifies the earlier research and its review limits.
 
 The current planning work responds to priorities of open-source components, simple data updates, efficient local-to-cloud transfer, and local plus cloud access:

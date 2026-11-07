@@ -1,6 +1,6 @@
 # Implementation outline: portable manual knowledge service
 
-Date: 2026-11-07 (Europe/Vienna). Status: proposed implementation contract, not implemented or runtime-validated. No database has been selected, installed, deployed or benchmarked. All six candidates remain in evaluation. This document makes a provisional engineering recommendation for the user's newer priorities; it does not turn prior research into measured results.
+Date: 2026-11-07 (Europe/Vienna). Status: target implementation contract; an initial local capture/extraction/validation slice exists, while the full service remains unimplemented and unvalidated. Current progress is tracked in `PROJECT_TRACKER.md`; executable scope is in `IMPLEMENTATION_STATUS.md`. No project database has been selected, deployed or benchmarked. All six candidates remain in evaluation. This document makes a provisional engineering recommendation for the user's newer priorities; it does not turn prior research into measured results.
 
 ## 1. Outcome, evidence and recommendation
 

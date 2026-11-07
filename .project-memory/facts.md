@@ -1,11 +1,15 @@
 # Durable facts and decisions
 
+Workspace moved 2026-11-07 to `C:\Users\Fred_U\Dropbox\AI\chatbot_manual`; Git HEAD/origin, source junction and tests verified. Current queue: `docs/PROJECT_TRACKER.md`; execution brief: `docs/IMPLEMENTATION_HANDOFF.md` (discovery/reuse/install and worker/reviewer/evaluator loop through usable completion). Fresh audit `docs/READINESS_AUDIT.md`: repo active paths correct; Codex project/current chat still use old path; ignored test junction stale; old location only empty `.git`. Use explicit new workdir. Dropbox sync unverified.
+
+Fresh readiness checks (2026-11-07): existing Python 3.11.7/3.12.0/3.14.0 each ran the same 15 tests (14 passed, one skipped); ten fingerprints matched. Existing Git, gh, Node, winget and native PostgreSQL/pgvector recorded; AGE and usable WSL/container runtime not established. No installations/services changed. Details/limits: `docs/READINESS_AUDIT.md`; independent brief review: `docs/HANDOFF_REVIEW.md`. Keep future live DB/private corpus/model/secrets runtime outside Dropbox; Git ignore does not govern sync.
+
 Verified 2026-11-07 (Europe/Vienna); evidence paths relative to workspace.
 
 | Kind | Fact / decision | Evidence |
 | --- | --- | --- |
 | Observed | `root_manual` is a junction to `C:\Users\Fred_U\Documents\COPS\PMS`. | PowerShell `Get-Item root_manual` (LinkType/Target); recheck per session. |
-| Observed | Local Git excludes the source junction; exclusion is not a tracked portable rule. | `.git/info/exclude`, `/root_manual/`. |
+| Observed | Both local Git exclusion and tracked portable ignore rule exclude the source junction. | `.git/info/exclude` and `.gitignore`, `/root_manual`. |
 | Observed | Generated German RoboHelp 11/WebHelp 5.50 manual, 24,500 files at inspection. | `root_manual/Handbuch/de/index.htm`; recursive inventory in `docs/PROJECT_MAP.md`. |
 | Observed | Two change-log folder spellings exist; Unicode tree also has a PMS 12 topic directory. | `root_manual/Handbuch/de/03-pms_aenderungsprotokolle/` and `03-pms_änderungsprotokolle/`. |
 | Observed | Tables, ER diagrams and ITF documentation have dedicated topics. | `Handbuch/de/01-pms_online_handbuch/appx_g-datenbanktabellen_de/`, `appx_k-er-diagramme_de/`, `Handbuch/de/02-pms_online_standardschnittstelle/`, all below `root_manual`. |

@@ -1,5 +1,7 @@
 # Project map
 
+Historical corpus inspection below. Current workspace/repository status and code locations are in [PROJECT_TRACKER.md](PROJECT_TRACKER.md) and [IMPLEMENTATION_STATUS.md](IMPLEMENTATION_STATUS.md). The original no-commit/no-application-code observations describe that inspection, not the present workspace.
+
 Inspection date: 2026-11-07 (Europe/Vienna). Paths below are relative to this workspace unless stated otherwise. Inventory describes files on disk, not tested browser behavior or a deployed PMS installation.
 
 ## Workspace and source boundary
