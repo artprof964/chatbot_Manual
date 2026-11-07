@@ -1,0 +1,112 @@
+{
+  "method": "Python HTMLParser; UTF-8 replacement on errors; script/style data excluded; visible text approximate, not rendered, duplicate pages retained",
+  "trees": [
+    {
+      "tree": "01-pms_online_handbuch",
+      "pages": 223,
+      "text_chars": 11946133,
+      "headings": 0,
+      "tables": 3542,
+      "links": 7474,
+      "image_refs": 9091,
+      "median_page_chars": 26560
+    },
+    {
+      "tree": "02-pms_online_standardschnittstelle",
+      "pages": 93,
+      "text_chars": 1203578,
+      "headings": 0,
+      "tables": 362,
+      "links": 733,
+      "image_refs": 23,
+      "median_page_chars": 8852
+    },
+    {
+      "tree": "03-pms_aenderungsprotokolle",
+      "pages": 17,
+      "text_chars": 1768477,
+      "headings": 0,
+      "tables": 63,
+      "links": 385,
+      "image_refs": 613,
+      "median_page_chars": 100200
+    },
+    {
+      "tree": "03-pms_änderungsprotokolle",
+      "pages": 18,
+      "text_chars": 2115566,
+      "headings": 0,
+      "tables": 77,
+      "links": 454,
+      "image_refs": 782,
+      "median_page_chars": 101751
+    }
+  ],
+  "total_pages": 351,
+  "largest_pages": [
+    {
+      "path": "01-pms_online_handbuch/appx_b-konfigurationseinstellungen_de/appx_b-konfigurationseinstellungen_de.htm",
+      "text_chars": 620201,
+      "headings": 0,
+      "tables": 375,
+      "links": 430,
+      "image_refs": 27
+    },
+    {
+      "path": "01-pms_online_handbuch/77-emir_de/77-emir_de.htm",
+      "text_chars": 327211,
+      "headings": 0,
+      "tables": 75,
+      "links": 90,
+      "image_refs": 69
+    },
+    {
+      "path": "01-pms_online_handbuch/42-montecarlosimulation_de/42-montecarlosimulation_de.htm",
+      "text_chars": 314425,
+      "headings": 0,
+      "tables": 64,
+      "links": 187,
+      "image_refs": 503
+    },
+    {
+      "path": "03-pms_änderungsprotokolle/protokoll_pms_11/protokoll_pms_11.htm",
+      "text_chars": 302183,
+      "headings": 0,
+      "tables": 13,
+      "links": 57,
+      "image_refs": 162
+    },
+    {
+      "path": "01-pms_online_handbuch/appx_m_modulbeschreibung_de/appx_m_modulbeschreibung_de.htm",
+      "text_chars": 297609,
+      "headings": 0,
+      "tables": 6,
+      "links": 262,
+      "image_refs": 8
+    },
+    {
+      "path": "01-pms_online_handbuch/49-investmentfondsgesetzoesterreich_de/49-investmentfondsgesetzoesterreich_de.htm",
+      "text_chars": 275312,
+      "headings": 0,
+      "tables": 40,
+      "links": 212,
+      "image_refs": 71
+    },
+    {
+      "path": "01-pms_online_handbuch/43-ias_39_de/43-ias_39_de.htm",
+      "text_chars": 257907,
+      "headings": 0,
+      "tables": 119,
+      "links": 133,
+      "image_refs": 207
+    },
+    {
+      "path": "01-pms_online_handbuch/57-fondsanlagegrenzenluxembourg_de/57-fondsanlagegrenzenluxembourg_de.htm",
+      "text_chars": 254998,
+      "headings": 0,
+      "tables": 29,
+      "links": 129,
+      "image_refs": 46
+    }
+  ]
+}

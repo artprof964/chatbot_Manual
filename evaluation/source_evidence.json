@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "verified_date": "2026-11-07",
+  "source_base": "root_manual/Handbuch/de",
+  "status": "source fingerprints and locators only; not executable retrieval results",
+  "evidence": {
+    "F": {
+      "path": "02-pms_online_standardschnittstelle/01-02-itf_formale_erlaeuterungen_de/01-02-itf_formale_erlaeuterungen_de.htm",
+      "sha256": "d551fd082a522615223f935650be66561793e5f1cd3fbeb8ccbba2b4b1597843"
+    },
+    "T": {
+      "path": "02-pms_online_standardschnittstelle/01-03-itf_technische_erlaeuterungen_de/01-03-itf_technische_erlaeuterungen_de.htm",
+      "sha256": "a9baa4013c2e6e862d46bc8a754f472ab9ca70630aa6646140facbd1219ce959"
+    },
+    "C": {
+      "path": "02-pms_online_standardschnittstelle/01-04-itf_konfigurationsdatei_de/01-04-itf_konfigurationsdatei_de.htm",
+      "sha256": "7d659016c3159164f1c7fe5b0731da2f983d3189d6b72398d0bc8a19dd1b327f"
+    },
+    "B": {
+      "path": "01-pms_online_handbuch/appx_b-konfigurationseinstellungen_de/appx_b-konfigurationseinstellungen_de.htm",
+      "sha256": "4dbfc717e44c90bbb2dea440f600f17e0dd66304849f511a31963ed071dda738"
+    },
+    "K": {
+      "path": "01-pms_online_handbuch/appx_k-er-diagramme_de/appx_k-er-diagramme_de.htm",
+      "sha256": "1e0512e50f26da73fb38ae20f03d61b0d837c5ed4708f55d0bab0c972bf79a6a"
+    },
+    "K_IMAGE": {
+      "path": "01-pms_online_handbuch/appx_k-er-diagramme_de/image004.jpg",
+      "sha256": "2e4b71c3c3040354b868d8e7e553af955f67658af9bee2182d84a37707020b5d"
+    },
+    "A10": {
+      "path": "03-pms_aenderungsprotokolle/protokoll_pms_10/protokoll_pms_10.htm",
+      "sha256": "921b6e0de7c8ed8b5a06aaf4e7f3592c68f492c4a0d0df311a991c9a89085392"
+    },
+    "U10": {
+      "path": "03-pms_änderungsprotokolle/protokoll_pms_10/protokoll_pms_10.htm",
+      "sha256": "a6e33f2274fd63ec39792bd590c8bdccb96d375d5e90592e1c0abf31a91a6f07"
+    },
+    "A7": {
+      "path": "03-pms_aenderungsprotokolle/protokoll_pms_7_0_100_release/protokoll_pms_7_0_100_release.htm",
+      "sha256": "f6f0bf80c47f22ac419f7496327e45c6a74e7ac336fca0af636476fb39234333"
+    },
+    "U7": {
+      "path": "03-pms_änderungsprotokolle/protokoll_pms_7_0_100_release/protokoll_pms_7_0_100_release.htm",
+      "sha256": "1141d026861f9e8d2ad00856ce6a2de105c58a7a705ab2bc78926b25b27a75cc"
+    }
+  },
+  "cases": [
+    {
+      "id": "S01",
+      "evidence_ids": [
+        "T"
+      ],
+      "locator": "1.3.5; lines 1253-1280"
+    },
+    {
+      "id": "S02",
+      "evidence_ids": [
+        "F"
+      ],
+      "locator": "1.2; lines 143-149"
+    },
+    {
+      "id": "S03",
+      "evidence_ids": [
+        "F"
+      ],
+      "locator": "1.2; lines 140-142"
+    },
+    {
+      "id": "S04",
+      "evidence_ids": [
+        "F"
+      ],
+      "locator": "1.2.1; lines 153-154"
+    },
+    {
+      "id": "S05",
+      "evidence_ids": [
+        "T"
+      ],
+      "locator": "1_3_3_In_welcher; lines 659-760"
+    },
+    {
+      "id": "S06",
+      "evidence_ids": [
+        "C"
+      ],
+      "locator": "1_4_10_berpr_fungslogik; lines 1401-1404"
+    },
+    {
+      "id": "S07",
+      "evidence_ids": [
+        "C"
+      ],
+      "locator": "lines 985-997 and 1400-1405"
+    },
+    {
+      "id": "S08",
+      "evidence_ids": [
+        "C"
+      ],
+      "locator": "lines 1197-1203"
+    },
+    {
+      "id": "S09",
+      "evidence_ids": [
+        "C"
+      ],
+      "locator": "1_4_7_Trennzeichen; lines 1370-1387"
+    },
+    {
+      "id": "S10",
+      "evidence_ids": [
+        "T"
+      ],
+      "locator": "1_3_4_Reaktionen_der_PMS; lines 1141-1157; 1.3.5"
+    },
+    {
+      "id": "S11",
+      "evidence_ids": [
+        "B"
+      ],
+      "locator": "B_2_1_Anlage_neuer_Items; line 992; B.4.1/B.4.1.1; lines 1011-1044"
+    },
+    {
+      "id": "S12",
+      "evidence_ids": [
+        "B"
+      ],
+      "locator": "B_3_Konfiguration_durch; lines 1004-1005"
+    },
+    {
+      "id": "S13",
+      "evidence_ids": [
+        "K",
+        "K_IMAGE"
+      ],
+      "locator": "K_2_Batchdefinition; lines 145-147; image labels"
+    },
+    {
+      "id": "S14",
+      "evidence_ids": [
+        "U10",
+        "A10"
+      ],
+      "locator": "PMS_Revision_10_2_8_vom; U10 lines 2965-2974; A10 absent anchor"
+    },
+    {
+      "id": "S15",
+      "evidence_ids": [
+        "A7",
+        "U7"
+      ],
+      "locator": "whole-file raw hash and normalized body-text comparison"
+    }
+  ]
+}

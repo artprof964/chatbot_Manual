@@ -1,0 +1,13 @@
+/root_manual
+/.runtime/
+/data/
+/bundles/
+/.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
